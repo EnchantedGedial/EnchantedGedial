@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img  width="400" align="right" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
+<!-- <img  width="400" align="right" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif"/> -->
 
 - 🌱 I’m currently learning **React.Js | Next.Js| Sanity**
 
