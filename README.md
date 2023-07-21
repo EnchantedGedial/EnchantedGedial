@@ -3,11 +3,11 @@
 
 <img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=500&t=st=1688893150~exp=1688893750~hmac=763a528c0ec35597e083ddf1d59d6a08240c8d8f114c35067fb419333254cc3e" alt="https://www.instagram.com/_jayanth_s_/" height="250" />
 
-- 🌱 I’m currently learning **React.Js | Next.Js| Sanity**
+- 🌱 I’m currently learning **Next.Js| Express.Js| Node.Js | Mongo DB | Sanity**
 
 - 👨‍💻 All of my projects are available at [https://enchantedgedial.github.io/Personal-Site/](https://enchantedgedial.github.io/Personal-Site/)
 
-- 📫 How to reach me **jay.codMik.18@gmail.com**
+- 📫 Reach out to me at **jay.codMik.18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +28,6 @@
 <h3 align="left">Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enchantedgedial&show_icons=true&locale=en" alt="enchantedgedial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enchantedgedial&" alt="enchantedgedial" /></p>
-<h3 align="left">Trophy:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enchantedgedial" alt="enchantedgedial" /></a> </p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Jayanth"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jayanth" /></a><a href="https://ko-fi.com/Jayanth"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Jayanth" /></a></p><br><br>
