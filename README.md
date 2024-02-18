@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.Js| Express.Js| Node.Js | Mongo DB | Sanity**
 
-- 👨‍💻 All of my projects are available at [https://enchantedgedial.github.io/Personal-Site/](https://enchantedgedial.github.io/Personal-Site/)
+- 👨‍💻 All of my projects are available at [https://enchantedgedial.github.io/Personal-Site/](https://enchantedgedial.github.io/Personal-Site/) & (https://jayanthrs.me/)
 
 - 📫 Reach out to me at **jay.codMik.18@gmail.com**
 
